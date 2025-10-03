@@ -1,5 +1,8 @@
 # Power BI Hospital Dashboard – Real-Time Insights for Patients, Doctors & Billing
 
+View the full Interective report here - 
+https://app.powerbi.com/view?r=eyJrIjoiODFhMDRlMDctYmU4My00NDVjLTkwYWUtOGQ3MTgwNDNlZWQxIiwidCI6ImVjZWZiYjY2LWU1NzEtNGEwNC1hZDM3LTgyNDkyZWRlYzg2MCIsImMiOjEwfQ%3D%3D
+
 ## Objective
 To design an interactive and integrated Power BI reporting solution that provides hospital stakeholders with real-time visibility into patient journeys, doctor performance, surgery outcomes, and billing summaries—leveraging SQL Server as the data backbone.
 
