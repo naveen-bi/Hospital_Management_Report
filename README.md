@@ -22,11 +22,11 @@ Inability to simulate billing and commission-based scenarios.
 
 Limited visibility into appointment management and surgical schedules.
 
-## Our Solution
+## Solution
 
-We developed a comprehensive Power BI dashboard suite with four integrated reports:
+I developed a comprehensive Power BI dashboard suite with four integrated reports:
 
-1. Patient Report
+### 1. Patient Report
 
 Flip Card showing patient profile, status, and health metrics.
 
@@ -34,7 +34,7 @@ Interactive HTML billing summary with costs, discounts, and payments.
 
 Tables for medication history, test results, and department details.
 
-2. Doctor Report
+### 2. Doctor Report
 
 Flip Card for doctor profile with appointment calendar.
 
@@ -42,13 +42,13 @@ What-If analysis for commission and earnings forecasting.
 
 KPIs for earnings, patient volume, and appointment trends.
 
-3. Surgery Report
+### 3. Surgery Report
 
 Surgery calendar for scheduling and tracking.
 
 Visual insights on surgery types, outcomes, and payment methods.
 
-4. Billing Summary
+### 4. Billing Summary
 
 HTML-based card for total charges, net payments, and discounts.
 
